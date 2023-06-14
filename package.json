@@ -1,0 +1,22 @@
+{
+  "name": "inner_vibe",
+  "version": "1.0.0",
+  "description": "Construct Week (InnerVibe) Project API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasims2001/Inner_Vibe.git"
+  },
+  "author": "Hasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasims2001/Inner_Vibe/issues"
+  },
+  "homepage": "https://github.com/Hasims2001/Inner_Vibe#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
