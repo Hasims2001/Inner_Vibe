@@ -63,6 +63,14 @@
     ],
     "blogPost": [
         {
+            "id": 1,
+            "image": [
+                "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=920&q=80",
+                "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1594882645126-14020914d58d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=885&q=80",
+                "https://images.unsplash.com/photo-1562771379-eafdca7a02f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+            ],
             "title": "The Importance of Regular Exercise for a Healthy Lifestyle",
             "content": [
                 "Introduction: In today's fast-paced world, maintaining good health is crucial. One of the key pillars of a healthy lifestyle is regular exercise. Engaging in physical activity offers a myriad of benefits that contribute to both physical and mental well-being. In this blog post, we will delve into the importance of incorporating exercise into your daily routine and explore how it can positively impact your overall health.",
@@ -75,6 +83,14 @@
             ]
         },
         {
+            "id": 2,
+            "image": [
+                "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=853&q=80",
+                "https://images.unsplash.com/photo-1565895405138-6c3a1555da6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1625937286074-9ca519d5d9df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+                "https://images.unsplash.com/photo-1611077543575-445af69a7adf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1561043433-aaf687c4cf04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+            ],
             "title": "The Benefits of a Balanced Diet for Optimal Health",
             "content": [
                 "Introduction: Maintaining a balanced diet is essential for achieving and maintaining optimal health. Proper nutrition provides the body with essential nutrients, vitamins, and minerals required for its proper functioning. In this blog post, we will explore the numerous benefits of a balanced diet and understand how it contributes to overall health and well-being.",
@@ -87,6 +103,14 @@
             ]
         },
         {
+            "id": 3,
+            "image": [
+                "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=860&q=80",
+                "https://images.unsplash.com/photo-1468174829941-1d60ae85c487?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1546015720-b8b30df5aa27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1422433555807-2559a27433bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1633122368233-9320b631a0f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80"
+            ],
             "title": "The Role of Sleep in Maintaining a Healthy Mind and Body",
             "content": [
                 "Introduction: Sleep is a fundamental aspect of our daily lives, and it plays a crucial role in maintaining a healthy mind and body. Adequate sleep is essential for various bodily functions, including physical health, cognitive function, and emotional well-being. In this blog post, we will explore the importance of sleep and understand how it contributes to overall health.",
@@ -99,6 +123,14 @@
             ]
         },
         {
+            "id": 4,
+            "image": [
+                "https://images.unsplash.com/photo-1541199249251-f713e6145474?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+                "https://images.unsplash.com/photo-1494459158735-82f8feb14abb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=889&q=80",
+                "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1493836512294-502baa1986e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=890&q=80",
+                "https://images.unsplash.com/photo-1613520439218-a69db537ea1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+            ],
             "title": "The Role of Stress Management in Maintaining a Healthy Lifestyle",
             "content": [
                 "Introduction: In today's fast-paced world, stress has become a common occurrence in our lives. Excessive and chronic stress can have detrimental effects on both our physical and mental health. In this blog post, we will explore the importance of stress management and how it contributes to maintaining a healthy lifestyle.",
@@ -111,6 +143,14 @@
             ]
         },
         {
+            "id": 5,
+            "image": [
+                "https://images.unsplash.com/photo-1499728603263-13726abce5fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1603206006222-26ecff6f4f5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+                "https://images.unsplash.com/photo-1591228127791-8e2eaef098d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1502139214982-d0ad755818d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "https://images.unsplash.com/photo-1560319242-a76e82e6fba7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=748&q=80"
+            ],
             "title": "The Power of Mindfulness: Cultivating Present-Moment Awareness for Well-being",
             "content": [
                 "Introduction: Mindfulness is a powerful practice that involves bringing one's attention to the present moment in a non-judgmental and compassionate way. It has gained significant recognition for its positive impact on mental health and overall well-being. In this blog post, we will explore the concept of mindfulness and understand its benefits.",
@@ -123,6 +163,7 @@
             ]
         },
         {
+            "id": 6,
             "title": "The Impact of Nutrition on Mental Health: Nourishing the Mind-Body Connection",
             "content": [
                 "Introduction: The relationship between nutrition and mental health is an emerging field of research, highlighting the significant impact of diet on our psychological well-being. A nutrient-rich diet can support optimal brain function, emotional balance, and overall mental well-being. In this blog post, we will explore the link between nutrition and mental health.",
@@ -135,6 +176,7 @@
             ]
         },
         {
+            "id": 7,
             "title": "The Importance of Hydration for Overall Health and Well-being",
             "content": [
                 "Introduction: Staying hydrated is vital for maintaining overall health and well-being. Our bodies depend on water for numerous functions, and even mild dehydration can have adverse effects. In this blog post, we will explore the importance of hydration and how it impacts our physical and mental health.",
@@ -147,6 +189,7 @@
             ]
         },
         {
+            "id": 8,
             "title": "The Benefits of Regular Physical Check-ups: Investing in Preventive Health Care",
             "content": [
                 "Introduction: Regular physical check-ups are an essential component of preventive health care. They involve comprehensive assessments of your overall health and provide an opportunity to detect and address potential health issues early on. In this blog post, we will explore the benefits of regular physical check-ups and their impact on long-term well-being.",
@@ -159,6 +202,7 @@
             ]
         },
         {
+            "id": 9,
             "title": "The Importance of Sun Safety: Protecting Your Skin from Harmful UV Rays",
             "content": [
                 "Introduction: Sun safety is crucial for maintaining healthy skin and minimizing the risk of sun damage and skin cancer. Protecting your skin from harmful ultraviolet (UV) rays is essential, regardless of the season. In this blog post, we will explore the importance of sun safety and provide tips for sun protection.",
@@ -171,6 +215,7 @@
             ]
         },
         {
+            "id": 10,
             "title": "The Impact of Sleep on Health and Well-being: Prioritizing Restorative Rest",
             "content": [
                 "Introduction: Sleep is a fundamental aspect of our lives, essential for physical health, mental well-being, and overall vitality. However, in today's fast-paced world, sleep often takes a back seat. In this blog post, we will explore the impact of sleep on health and well-being and highlight the importance of prioritizing restorative rest.",
@@ -183,6 +228,7 @@
             ]
         },
         {
+            "id": 11,
             "title": "The Benefits of Regular Mind-Body Exercises: Nurturing the Connection",
             "content": [
                 "Introduction: Mind-body exercises focus on the connection between physical movement and mental well-being. They combine physical activity with mindfulness, promoting overall health and harmony. In this blog post, we will explore the benefits of regular mind-body exercises and their impact on mind and body.",
@@ -195,6 +241,7 @@
             ]
         },
         {
+            "id": 12,
             "title": "The Power of Positive Thinking: Cultivating Optimism for Better Health",
             "content": [
                 "Introduction: Positive thinking is a powerful mindset that can greatly impact our health and well-being. By cultivating optimism and focusing on the positive aspects of life, we can enhance our mental and physical health. In this blog post, we will explore the power of positive thinking and its benefits.",
@@ -207,6 +254,7 @@
             ]
         },
         {
+            "id": 13,
             "title": "The Role of Nutrition in Bone Health: Building and Maintaining Strong Bones",
             "content": [
                 "Introduction: Nutrition plays a crucial role in bone health throughout our lives. By providing the necessary nutrients, we can build and maintain strong bones, reducing the risk of osteoporosis and fractures. In this blog post, we will explore the role of nutrition in bone health.",
@@ -219,6 +267,7 @@
             ]
         },
         {
+            "id": 14,
             "title": "The Importance of Hydration for Overall Health: Quenching Your Body's Needs",
             "content": [
                 "Introduction: Hydration is essential for maintaining overall health and well-being. Water is a fundamental component of our bodies, and adequate hydration supports numerous bodily functions. In this blog post, we will explore the importance of hydration and its impact on our health.",
@@ -231,6 +280,7 @@
             ]
         },
         {
+            "id": 15,
             "title": "The Impact of Stress on Health: Managing the Silent Contributor",
             "content": [
                 "Introduction: Stress is a common experience in today's fast-paced world, and its impact on health should not be underestimated. Prolonged or chronic stress can contribute to various physical and mental health issues. In this blog post, we will explore the impact of stress on health and strategies for managing it effectively.",
@@ -243,6 +293,7 @@
             ]
         },
         {
+            "id": 16,
             "title": "The Benefits of Outdoor Activities: Embracing Nature for Improved Health",
             "content": [
                 "Introduction: Spending time outdoors and engaging in outdoor activities can significantly benefit our physical and mental health. Nature provides a soothing and rejuvenating environment that promotes overall well-being. In this blog post, we will explore the benefits of outdoor activities and the importance of connecting with nature.",
@@ -255,6 +306,7 @@
             ]
         },
         {
+            "id": 17,
             "title": "The Importance of a Balanced Diet: Nourishing Your Body for Optimal Health",
             "content": [
                 "Introduction: A balanced diet is the foundation of optimal health. By nourishing our bodies with a variety of nutrient-rich foods, we can support proper functioning, prevent chronic diseases, and enhance overall well-being. In this blog post, we will explore the importance of a balanced diet and its impact on our health.",
@@ -267,9 +319,14 @@
             ]
         }
     ],
+    "sales": [],
+    "avtar": [],
     "products": [
         {
             "id": 1,
+            "darkIcon": "",
+            "lightIcon": "fa-regular fa-droplet",
+            "iconColor": "#24bdff",
             "name": "Hydration",
             "price": 100,
             "description": [
@@ -297,6 +354,9 @@
         },
         {
             "id": 2,
+            "darkIcon": "",
+            "lightIcon": "fa-regular fa-lightbulb",
+            "iconColor": "#fbff24",
             "name": "Energy Boost",
             "price": 80,
             "description": [
@@ -325,6 +385,9 @@
         {
             "id": 3,
             "name": "Beauty Enhancement",
+            "darkIcon": "",
+            "lightIcon": "fa-regular fa-face-smile",
+            "iconColor": "#fdd977",
             "price": 150,
             "description": [
                 {
@@ -352,6 +415,9 @@
         {
             "id": 4,
             "name": "Stress Relief",
+            "darkIcon": "",
+            "lightIcon": "fa-light fa-face-clouds",
+            "iconColor": "#3881ff",
             "price": 120,
             "description": [
                 {
@@ -380,6 +446,9 @@
             "id": 5,
             "name": "Detoxification",
             "price": 90,
+            "darkIcon": "",
+            "lightIcon": "fa-regular fa-stomach",
+            "iconColor": "#ff4271",
             "description": [
                 {
                     "title": "Cleanse Your Body and Renew Your Vitality",
@@ -407,6 +476,9 @@
             "id": 6,
             "name": "Acupuncture",
             "price": 80,
+            "darkIcon": "",
+            "lightIcon": "fa-solid fa-face-smiling-hands",
+            "iconColor": "#ffbb29",
             "description": [
                 {
                     "title": "Restore Balance and Harmony with Acupuncture",
@@ -434,6 +506,9 @@
             "id": 7,
             "name": "Meditation",
             "price": 60,
+            "darkIcon": "",
+            "lightIcon": "fa-solid fa-temperature-low",
+            "iconColor": "#ff8929",
             "description": [
                 {
                     "title": "Find Inner Peace and Clarity through Meditation",
@@ -461,6 +536,9 @@
             "id": 8,
             "name": "Chiropractic Care",
             "price": 120,
+            "darkIcon": "",
+            "lightIcon": "fa-solid fa-person-running",
+            "iconColor": "#9c38ff",
             "description": [
                 {
                     "title": "Optimize Your Spinal Health with Chiropractic Care",
@@ -488,6 +566,9 @@
             "id": 9,
             "name": "Aromatherapy",
             "price": 40,
+            "darkIcon": "",
+            "lightIcon": "fa-regular fa-sunglasses",
+            "iconColor": "#fe3434",
             "description": [
                 {
                     "title": "Enhance Well-Being and Relaxation with Aromatherapy",
@@ -515,6 +596,9 @@
             "id": 10,
             "name": "Art Therapy",
             "price": 70,
+            "darkIcon": "",
+            "lightIcon": "fa-regular fa-palette",
+            "iconColor": "#fe48ef",
             "description": [
                 {
                     "title": "Explore Self-Expression and Healing through Art Therapy",
