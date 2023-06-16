@@ -319,7 +319,50 @@
             ]
         }
     ],
-    "sales": [],
+    "sales": [
+        {
+            "appoinment": "2022-12-22",
+            "payment": "cash",
+            "totalAmout": 170,
+            "userId": 2,
+            "id": 1
+        },
+        {
+            "appoinment": "2022-10-12",
+            "payment": "upi",
+            "totalAmout": 150,
+            "userId": 4,
+            "id": 2
+        },
+        {
+            "appoinment": "2022-12-22",
+            "payment": "cash",
+            "totalAmout": 170,
+            "userId": 5,
+            "id": 3
+        },
+        {
+            "appoinment": "2022-10-12",
+            "payment": "upi",
+            "totalAmout": 150,
+            "userId": 2,
+            "id": 4
+        },
+        {
+            "appoinment": "2022-12-22",
+            "payment": "cash",
+            "totalAmout": 170,
+            "userId": 1,
+            "id": 5
+        },
+        {
+            "appoinment": "2022-10-12",
+            "payment": "netbank",
+            "totalAmout": 150,
+            "userId": 1,
+            "id": 6
+        }
+    ],
     "avtar": [],
     "products": [
         {
@@ -416,7 +459,7 @@
             "id": 4,
             "name": "Stress Relief",
             "darkIcon": "",
-            "lightIcon": "fa-solid fa-face-clouds",
+            "lightIcon": "fa-solid fa-face-laugh-wink",
             "iconColor": "#3881ff",
             "price": 120,
             "description": [
@@ -447,7 +490,7 @@
             "name": "Detoxification",
             "price": 90,
             "darkIcon": "",
-            "lightIcon": "fa-solid fa-stomach",
+            "lightIcon": "fa-solid fa-circle-xmark",
             "iconColor": "#ff4271",
             "description": [
                 {
@@ -477,7 +520,7 @@
             "name": "Acupuncture",
             "price": 80,
             "darkIcon": "",
-            "lightIcon": "fa-solid fa-face-smiling-hands",
+            "lightIcon": "fa-solid fa-fire",
             "iconColor": "#ffbb29",
             "description": [
                 {
@@ -597,7 +640,7 @@
             "name": "Art Therapy",
             "price": 70,
             "darkIcon": "",
-            "lightIcon": "fa-regular fa-palette",
+            "lightIcon": "fa-solid fa-palette",
             "iconColor": "#fe48ef",
             "description": [
                 {
