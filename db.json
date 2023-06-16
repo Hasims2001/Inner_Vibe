@@ -325,7 +325,7 @@
         {
             "id": 1,
             "darkIcon": "",
-            "lightIcon": "fa-regular fa-droplet",
+            "lightIcon": "fa-solid fa-droplet",
             "iconColor": "#24bdff",
             "name": "Hydration",
             "price": 100,
@@ -386,7 +386,7 @@
             "id": 3,
             "name": "Beauty Enhancement",
             "darkIcon": "",
-            "lightIcon": "fa-regular fa-face-smile",
+            "lightIcon": "fa-solid fa-face-smile",
             "iconColor": "#fdd977",
             "price": 150,
             "description": [
@@ -416,7 +416,7 @@
             "id": 4,
             "name": "Stress Relief",
             "darkIcon": "",
-            "lightIcon": "fa-light fa-face-clouds",
+            "lightIcon": "fa-solid fa-face-clouds",
             "iconColor": "#3881ff",
             "price": 120,
             "description": [
@@ -447,7 +447,7 @@
             "name": "Detoxification",
             "price": 90,
             "darkIcon": "",
-            "lightIcon": "fa-regular fa-stomach",
+            "lightIcon": "fa-solid fa-stomach",
             "iconColor": "#ff4271",
             "description": [
                 {
@@ -567,8 +567,8 @@
             "name": "Aromatherapy",
             "price": 40,
             "darkIcon": "",
-            "lightIcon": "fa-regular fa-sunglasses",
-            "iconColor": "#fe3434",
+            "lightIcon": "fa-solid fa-glasses",
+            "iconColor": "#48ff24",
             "description": [
                 {
                     "title": "Enhance Well-Being and Relaxation with Aromatherapy",
